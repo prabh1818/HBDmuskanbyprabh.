@@ -385,24 +385,14 @@ body {
     animation: scaleCricle 3s var(--t) forwards, 
             scaleStar 2s 16s infinite ease-in-out;
 }
-.decorate_star.star1{
-    width: 20px;
-    height: 20px;
-    top: 75px;
-    left: 300px;
-}
+
 .decorate_star.star2{
     width: 15px;
     height: 20px;
     top: 35px;
     right: 360px;
 }
-.decorate_star.star3{
-    width: 14px;
-    height: 14px;
-    top: 290px;
-    left: 630px;
-}
+
 .decorate_star.star4{
     width: 18px;
     height: 18px;
